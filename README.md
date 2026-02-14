@@ -2,8 +2,7 @@
 ## Temporal Sovereignty in AI Governance
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![arXiv](https://img.shields.io/badge/arXiv-cs.CY-<COLOR>.svg)](https://arxiv.org)
-[![DOI](https://img.shields.io/badge/DOI-pending-blue)](https://zmem.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18642423.svg)](https://doi.org/10.5281/zenodo.18642423)
 
 **AHP is a provably enforceable architectural framework that reconstitutes hesitation as infrastructural capacity rather than inefficiency.**  
 It demonstrates that **the absence of deliberative time in algorithmic systems is a political choice, not a technical necessity.**
@@ -15,7 +14,7 @@ It demonstrates that **the absence of deliberative time in algorithmic systems i
 This is a **self-contained scholarly article** at the intersection of Science and Technology Studies, control theory, and critical technical practice. It proposes **Algorithmic Hysteresis Primacy (AHP)** — a framework that treats hesitation as architectural infrastructure — and provides **formal proofs, protocol specifications, reference implementations, and governance frameworks** as independently verifiable supplements.
 
 **Genesis and method:**  
-This work originates from a single philosophical question — *“how can we prevent the pursuit of zero latency in artificial neural systems from eroding human agency?”* — posed by a researcher with no formal training in engineering or the exact sciences. Through an iterative process of **specification, multi-perspective adversarial critique, and convergent refinement**, every technical layer was generated, challenged, and revised until multiple synthetic interlocutors attested to its internal consistency.  
+This work originates from a single philosophical question — *"how can we prevent the pursuit of zero latency in artificial neural systems from eroding human agency?"* — posed by a researcher with no formal training in engineering or the exact sciences. Through an iterative process of **specification, multi-perspective adversarial critique, and convergent refinement**, every technical layer was generated, challenged, and revised until multiple synthetic interlocutors attested to its internal consistency.  
 
 > *The author's lack of conventional credentials is not concealed — it is integral to the work's central claim.*
 
@@ -46,6 +45,13 @@ This work originates from a single philosophical question — *“how can we pre
 
 ---
 
+### 📄 Preprints
+
+- Sah, A. (2026). *Algorithmic Hysteresis Primacy (AHP): Temporal Sovereignty in AI Governance*.  
+  [DOI: 10.5281/zenodo.18642423](https://doi.org/10.5281/zenodo.18642423) \| [SSRN: 6229958](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229958)
+
+---
+
 ### 🌐 Languages
 
 - [English](https://zmem.org)  
@@ -60,5 +66,7 @@ This work originates from a single philosophical question — *“how can we pre
   title={Algorithmic Hysteresis Primacy (AHP): Temporal Sovereignty in AI Governance},
   author={Sah, Alexandre},
   year={2026},
+  doi={10.5281/zenodo.18642423},
+  url={https://doi.org/10.5281/zenodo.18642423},
   note={Preprint. Supplementary materials available at \url{https://zmem.org}}
 }
